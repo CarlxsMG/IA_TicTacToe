@@ -1,0 +1,11 @@
+Primero desarrolle la IA_Easy (Empieza el User).
+Despues con parte del codigo de la IA_Easy, programe la IA_God (Empieza ella).
+A partir de esas dos IAs, programe las 2 IAs restantes.
+IA_Defender (Empieza el User).
+IA_Expert (Empieza ella).
+
+Algunos fallos graciosos:
+
+- Intercambiaba las fichas del user, para ganar la IA.
+- Detectaba combos como "O","X","O" y se queda bloqueada al no ser un digito la "X".
+- No dectectaba 3 en raya en diagonal, si no habia ninguna ficha en el centro.

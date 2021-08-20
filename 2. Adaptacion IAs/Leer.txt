@@ -1,0 +1,1 @@
+En esta fase voy a optimizar las IAs para que no importe quien empiece antes y desempeñen bien sus funciones.
